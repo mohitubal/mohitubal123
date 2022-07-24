@@ -1,4 +1,4 @@
-//Find output of below code:
+//Q12.Find output of below code:
 
 
 #include<stdio.h>
