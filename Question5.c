@@ -1,4 +1,4 @@
-//WAP to calculate the length of String using printf function
+//Q5.WAP to calculate the length of String using printf function
 
 #include<stdio.h>
 #include <string.h>
